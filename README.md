@@ -20,14 +20,32 @@
     </thead>
     <tbody>
       <tr>
-        <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></td>
-        <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /></td>
-        <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></td>
+        <td>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> 
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /> 
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> 
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> 
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        </td>
       </tr>
       <tr>
-        <td><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-458190?style=flat&logo=neo4j&logoColor=white" /></td>
+        <td>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> 
+          <img src="https://img.shields.io/badge/Neo4j-458190?style=flat&logo=neo4j&logoColor=white" />
+        </td>
         <td></td>
-        <td><img src="https://img.shields.io/badge/Apache_Airflow-0176E0?style=flat&logo=apache-airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></td>
+        <td>
+          <img src="https://img.shields.io/badge/Apache_Airflow-0176E0?style=flat&logo=apache-airflow&logoColor=white" /> 
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+        </td>
       </tr>
     </tbody>
   </table>
@@ -48,9 +66,19 @@
     </thead>
     <tbody>
       <tr>
-        <td><h2 align="center">6.9</h2></td>
-        <td><p align="center">Evaluación oficial: <b>Desempeño excelente, con trabajo serio y dedicado.</b></p></td>
-        <td><p align="center">PostgreSQL, Next.js, Prisma, Apache Airflow</p></td>
+        <td>
+          <h2>6.9</h2>
+          <!-- Imagen de evaluación justo debajo de la nota -->
+          <div>
+            <img src="image.png" alt="Evaluación de mi práctica" width="400"/>
+          </div>
+        </td>
+        <td>
+          <p>Evaluación oficial: <b>Desempeño excelente, con trabajo serio y dedicado.</b></p>
+        </td>
+        <td>
+          <p>PostgreSQL, Next.js, Prisma, Apache Airflow</p>
+        </td>
       </tr>
     </tbody>
   </table>
