@@ -80,12 +80,15 @@
   </table>
 </div>
 
----
+
 
 <div align="center">
-  <h1>Evaluación práctica inicial</h1>
+  <h1>Ficha práctica inicial</h1>
   <img src="image.png" alt="Evaluación de mi práctica" width="400"/>
 </div>
+
+---
+
 <h3 align="center">Conecta conmigo</h3>
 
 <div align="center">
