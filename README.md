@@ -68,10 +68,6 @@
       <tr>
         <td>
           <h2>6.9</h2>
-          <!-- Imagen de evaluación justo debajo de la nota -->
-          <div>
-            <img src="image.png" alt="Evaluación de mi práctica" width="400"/>
-          </div>
         </td>
         <td>
           <p>Evaluación oficial: <b>Desempeño excelente, con trabajo serio y dedicado.</b></p>
@@ -86,6 +82,9 @@
 
 ---
 
+<div>
+  <img src="image.png" alt="Evaluación de mi práctica" width="400"/>
+</div>
 <h3 align="center">Conecta conmigo</h3>
 
 <div align="center">
