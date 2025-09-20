@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_Universidad_Austral_de_Chile.png" alt="UACh" width="150"/>
+  <img src="Escudo_uaustralchile.png" width="150"/>
 </div>
 
 
