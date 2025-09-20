@@ -1,9 +1,14 @@
 <h1 align="center">Hola, soy Vicente Alves! 👋</h1>
 
 <div align="center">
-  <p>Estudiante de Ingeniería Civil en Informática con enfoque en Backend y Análisis de Datos.</p>
+  <p>Estudiante de Ingeniería Civil en Informática de la Universidad Austral de Chile con enfoque en Backend y Análisis de Datos.</p>
   <p>Apasionado por el desarrollo full stack y la colaboración en equipo.</p>
 </div>
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_Universidad_Austral_de_Chile.png" alt="UACh" width="150"/>
+</div>
+
 
 ---
 
